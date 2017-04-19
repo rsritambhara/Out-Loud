@@ -1,2 +1,1 @@
-# Out-Loud
-SJIC Project1
+#  Sjictemp
